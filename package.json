@@ -1,0 +1,10 @@
+{
+  "name": "amb3xh--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "3.3.13",
+    "@progress/kendo-dateinputs-vue-wrapper": "2024.1.319",
+    "@progress/kendo-ui": "2024.1.319"
+  }
+}
